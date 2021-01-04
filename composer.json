@@ -29,5 +29,6 @@
             }
         }
     },
+    "bin": ["bin/phantomjs"],
     "minimum-stability": "stable"
 }
